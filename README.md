@@ -52,8 +52,7 @@ Python • NumPy • Pandas • MySQL • C • C++ • Java • Figma • Canva
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowrav003&show_icons=true&theme=swift)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowrav003&layout=compact&theme=swift)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sowrav003&theme=swift)
 
 
 ---
